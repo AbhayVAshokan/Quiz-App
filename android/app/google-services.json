@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59991460585",
+    "firebase_url": "https://youcanalsobekodeeshwaran.firebaseio.com",
+    "project_id": "youcanalsobekodeeshwaran",
+    "storage_bucket": "youcanalsobekodeeshwaran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59991460585:android:d963c23f635e741cc57e78",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59991460585-l0a7p2uidct0hbpkcrnvfs92uma2ekh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_app",
+            "certificate_hash": "9b74fdfe522042900bffa28918afff8208ccfafd"
+          }
+        },
+        {
+          "client_id": "59991460585-kv8illbililf9701sdd3e2s4gv3ijeji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMlLdNJRCMbJw3Qz6iOdmINa_-bgWIF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59991460585-kv8illbililf9701sdd3e2s4gv3ijeji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
